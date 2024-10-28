@@ -1,0 +1,2 @@
+# Subdomain-Takeover-PoC
+🔥
